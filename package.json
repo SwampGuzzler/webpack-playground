@@ -4,7 +4,8 @@
   "description": "Messing around with hot reload, targeted builds, pathing",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
   },
   "author": "Lucas Cotner",
   "license": "ISC",
