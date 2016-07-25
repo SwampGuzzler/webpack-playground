@@ -16,5 +16,10 @@
     "transform-loader": "^0.2.3",
     "webpack": "^1.13.1",
     "webworkify-webpack": "^1.1.3"
+  },
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-stage-0": "^6.5.0"
   }
 }

@@ -22,8 +22,8 @@ module.exports = {
   resolve: {
     extensions: ['', '.js'],
     alias: {
-      webworkify: 'webworkify-webpack',
-      'mapbox-gl': path.resolve('./node_modules/mapbox-gl/dist/mapbox-gl.js')
+      webworkify: 'webworkify-webpack'//,
+      //'mapbox-gl': path.resolve('./node_modules/mapbox-gl/dist/mapbox-gl.js') // es no necessito por que el 'path' defaults to node_modules
     }
   },
   module: {
